@@ -31,8 +31,8 @@ p.33 Ex 16.1
 1. I had been working hard all day.
 1. They had been playing football tough.
 5. I had been looking forward to it.
-3. She had a bad dream
-4. He had watched a film
+3. She had been dreaming
+4. He had been watching a film
 
 p.33 Ex 16.2
 
@@ -48,10 +48,10 @@ p.33 Ex 16.3
 
 1. It was very noisy next door. Our neighbors were having a party.
 2. We were good friends. We had known each other for years.
-3. John and I went for a walk. I had difficulty keeping up with him because he had been walking so fast.
+3. John and I went for a walk. I had difficulty keeping up with him because he was walking so fast.
 4. Sue was sitting on the ground. She was out of breath. She had been running.
 5. When I arrived, everybody was sitting round the table with their mouths full. They were eating.
-6. When I arrived, everybody was sittign round the table and talking. Their mouths were empty, but their stomachs were full. They had been eating.
+6. When I arrived, everybody was sittign round the table and talking. Their mouths were empty, but their stomachs were full. They had been eating (или They had already eaten).
 7. James was on his hands and knees on the floor. He was looking for his contact lens.
 8. When I arrived, Kate had been waiting for me. She was annoyed because I was late and she had been waiting for a long time.
 9. I was sad when I sold my car. I had had it for a very long time.
