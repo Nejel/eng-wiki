@@ -3,7 +3,7 @@
 Amina
 
 __Past simple__
-+ I worked yesterday. I was in Paris on 2015.
++ I worked yesterday. I was in Paris in 2015.
 
 __Past continuous__
 + I was washing up when he came
